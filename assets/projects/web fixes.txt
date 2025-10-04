@@ -1,0 +1,10 @@
+You don't have permission to delete posts (users to their own post)
+
+whenever I click the X on embed image, instead of taking me back to writing the post/thread, it just automatically uploads the post/thread without me actually clicking post
+
+timezone is different
+
+No users found for new message
+
+
+too zoomed in on mobile
